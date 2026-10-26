@@ -2,11 +2,11 @@
 
 def main():
 
-    num_1 = float(input("Enter your first number: "))
+    num_1 = int(float(input("Enter your first number: ")))
 
     operation = input("enter operation: +,-,*, or /: ") 
 
-    num_2 = float(input("Enter your second number: "))
+    num_2 = int(float(input("Enter your second number: ")))
 
 
 
